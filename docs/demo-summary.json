@@ -1,0 +1,37 @@
+{
+  "mode": "temporal",
+  "invoices": {
+    "INV-2026-1042": {
+      "status": "PAID",
+      "vendor": "Varagi Trades Hyper",
+      "amount_paise": 1845000,
+      "reason": null,
+      "extract_runs": 1
+    },
+    "INV-2026-1043": {
+      "status": "REJECTED",
+      "vendor": "Savitha Mart",
+      "amount_paise": 729000,
+      "reason": "Duplicate of last month's order \u2014 verify with Savitha Mart before paying",
+      "extract_runs": 1
+    },
+    "INV-2026-1044": {
+      "status": "PAID",
+      "vendor": "All Food Supplies",
+      "amount_paise": 5230000,
+      "reason": null,
+      "extract_runs": 1
+    }
+  },
+  "payments_total": 2,
+  "idempotency_replay": {
+    "recorded": false,
+    "idempotency_key": "pay:INV-2026-1042:1845000",
+    "amount_display": "Rs 18,450.00",
+    "payments_for_key": 1
+  },
+  "restart_resume": {
+    "killed_mid_run": "worker",
+    "extract_runs_after_restart_INV-2026-1044": 1
+  }
+}

@@ -1,0 +1,14 @@
+INVOICE
+Invoice No: INV-2026-1042
+Vendor: Varagi Trades Hyper
+Date: 2026-11-20
+Currency: INR
+Amount: 18450.00
+Due Date: 2026-11-27
+Description: Monthly bulk stock - cooking oil, rice, sugar, cleaning supplies
+Items:
+  - Gold Winner Sunflower Oil 5L x 4
+  - Ponni Rice 25kg x 2
+  - Sugar 5kg x 2
+  - Vim Liquid, Colin, Tissue Paper
+Payment: Bank transfer on approval

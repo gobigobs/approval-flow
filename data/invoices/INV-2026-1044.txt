@@ -1,0 +1,15 @@
+INVOICE
+Invoice No: INV-2026-1044
+Vendor: All Food Supplies
+Date: 2026-11-22
+Currency: INR
+Amount: 52300.00
+Due Date: 2026-11-29
+Description: Monthly frozen + packaging - french fries, momos, nuggets, boxes
+Items:
+  - FC French Fries 2.5kg x 10
+  - Chicken Momos x 200 pcs
+  - Chicken Nuggets 1kg x 8
+  - Take Away Box 700ml x 500
+  - Mayo Big 5kg x 2
+Payment: Bank transfer on approval

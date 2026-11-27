@@ -1,0 +1,14 @@
+INVOICE
+Invoice No: INV-2026-1043
+Vendor: Savitha Mart
+Date: 2026-11-21
+Currency: INR
+Amount: 7290.00
+Due Date: 2026-11-28
+Description: Weekly provisions - cheese slices, butter, breads, soda
+Items:
+  - Cheese Slices x 20 packs
+  - Butter 500g x 6
+  - Milk Bread, Burger Bun, Sandwich Bread
+  - Sprite 750ml x 12, Bisleri Soda x 12
+Payment: Bank transfer on approval
